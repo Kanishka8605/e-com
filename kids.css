@@ -1,0 +1,217 @@
+body{
+    background-image: url('image/plain bg.png');
+    background-repeat: repeat ;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.header{
+    position: absolute;
+    top: 0%;
+    color: rgb(251,4,90);
+    font-family: marhey;
+    left: 39%;
+    font-size: 50px;
+    
+}
+.fa-magnifying-glass{
+    position: absolute;
+    top: 15.8%;
+    left: 41.5%;
+    color: white;
+}
+.search{
+     position: absolute;
+    top: 105px;
+    left: 43%;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+}
+.img{
+  display: inline-block ;
+  text-align: center;
+  width: 250px;
+  border-radius: 20px;
+  padding: 20px;
+  position: relative;
+  background-color: rgb(83, 82, 82);
+  text-align: left;
+  height:300px;
+  
+}
+.pic{
+    width: 205px;
+    height: 250px;
+    justify-content: center;
+    border-radius: 10px;
+}
+.para{
+    color: white;
+    font-size: 18px;
+   font-family: averia gruesa libre;
+   margin-top: -1px;
+}
+.fa-star{
+    color: rgb(254, 250, 4);
+    display: flex;
+    margin-top: -10px;
+}
+.rating{
+    color: rgb(254, 250, 4);
+    font-family: averia gruesa libre;
+    margin-top: -15px;
+}
+.price{
+    font-size: 20px;
+    color: rgb(10, 239, 94);
+    font-weight: 600;
+    margin-top: -12px;
+   
+}
+.ship{
+    color: rgb(249, 250, 249);
+    margin-top: -10px;
+}
+.btn{
+    font-family: rem;
+    padding: 10px;
+    color: white;
+    background-color: rgb(251,4,90);
+    border: none;
+    border-radius: 40px;
+    margin-top: -5px;
+    text-align: center;
+}
+.btn:hover{
+    transform: scale(0.9);
+}
+.fea1{
+    position: absolute;
+    left:6%;
+    top: 27%;
+    width: 200px;
+    height: 400px;
+}
+.fea2{
+    position: absolute;
+    left: 24%;
+    top: 27%;
+    width: 200px;
+    height: 400px;
+}
+.fea3{
+    position: absolute;
+    left: 42%;
+    top: 27%;
+    width: 200px;
+    height: 400px;
+}
+.fea4{
+    position: absolute;
+    left: 60%;
+    top: 27%;
+    width: 200px;
+    height: 400px;
+}
+.fea5{
+    position: absolute;
+    left: 78%;
+    top: 27%;
+    width: 200px;
+    height: 400px;
+}
+.fea6{
+    position: absolute;
+    left:6%;
+    top: 97%;
+    width: 200px;
+    height: 400px;
+}
+.fea7{
+    position: absolute;
+    left: 24%;
+    top: 97%;
+    width: 200px;
+    height: 400px;
+}
+.fea8{
+    position: absolute;
+    left: 42%;
+    top: 97%;
+    width: 200px;
+    height: 400px;
+}
+.fea9{
+    position: absolute;
+    left: 60%;
+    top: 97%;
+    width: 200px;
+    height: 400px;
+}
+.fea10{
+    position: absolute;
+    left: 78%;
+    top: 97%;
+    width: 200px;
+    height: 400px;
+}
+.fea11{
+    position: absolute;
+    left:6%;
+    top: 167%;
+    width: 200px;
+    height: 400px;
+}
+.fea12{
+    position: absolute;
+    left: 24%;
+    top: 167%;
+    width: 200px;
+    height: 400px;
+}
+.fea13{
+    position: absolute;
+    left: 42%;
+    top: 167%;
+    width: 200px;
+    height: 400px;
+}
+.fea14{
+    position: absolute;
+    left: 60%;
+    top: 167%;
+    width: 200px;
+    height: 400px;
+}
+.fea15{
+    position: absolute;
+    left: 78%;
+    top: 167%;
+    width: 200px;
+    height: 400px;
+}
+.fea16{
+    position: absolute;
+    left: 24%;
+    top: 237%;
+    width: 200px;
+    height: 400px;
+}
+.fea17{
+    position: absolute;
+    left: 42%;
+    top: 237%;
+    width: 200px;
+    height: 400px;
+}
+.fea18{
+    position: absolute;
+    left: 60%;
+    top: 237%;
+    width: 200px;
+    height: 400px;
+}
+
